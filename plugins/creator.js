@@ -8,8 +8,8 @@ remoteJid: 'status@broadcast'
 },
 message: {
 locationMessage: {
-name: '©RadBotZ',
-jpegThumbnail: fs.readFileSync('./src/RadBotZ.jpg')
+name: '©AlamBotz',
+jpegThumbnail: fs.readFileSync('./src/AlamBotz.jpg')
   }
  }
 }
@@ -30,7 +30,7 @@ let list = []
 ]
 const buttonsMessage = {
     contentText: `
-Nih Kak Kontak Owner Saya Jangan Di Spam Kak
+itu owner ku kak mau nanya soal apa Yaa..
 `.trim(),    footerText: ``,
     buttons: buttons,
   headerType: 'EMPTY'
