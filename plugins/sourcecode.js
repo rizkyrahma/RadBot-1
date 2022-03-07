@@ -4,7 +4,7 @@ let handler = async (m, { conn }) => conn.sendButtonLoc(m.chat, await (await fet
 Hai 👋
 saya radbotz_1
 Bot Ini Menggunakan Sc dari github
-https://github.com/Drz103
+https://github.com/rizkyrahma
 `.trim(), '©souce code', 'Thanks', '.tqto')
 handler.help = ['sourcecode']
 handler.tags = ['info']
