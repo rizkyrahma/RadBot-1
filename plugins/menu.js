@@ -24,7 +24,7 @@ const defaultMenu = {
 ⁙┃〲
 ⁙┃〲 Uptime: *%uptime (%muptime)*
 ⁙┃〲 Database: %rtotalreg dari %totalreg
-⁙┃〲 GitHub: https://github.com/Drz103/RadBot
+⁙┃〲 GitHub: https://gitHub.com/rizkyrahma
 ⁙┃〲
 ⁙╰•°°°🕊°°°°°🕊°°°°°°🕊°°°°°°°°
 %readmore`.trimStart(),
@@ -225,7 +225,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                         "title": `*${ucapan()}, ${name}*`.trim(),
                         "description": `©AlamBotz`.trim(),
                         "footerText": "Hi kak >//<",
-                        "buttonText": "*Click Here*",
+                        "buttonText": "*menu Disini*",
                         "listType": "SINGLE_SELECT",
                         "sections": [
                             {
