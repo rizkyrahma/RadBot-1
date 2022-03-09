@@ -15,7 +15,7 @@ key: {
 				"product": {
 					"productImage":{
 						"mimetype": "image/jpeg",
-						"jpegThumbnail": fs.readFileSync('./src/RadBotZ.jpg'), //Gambarnye
+						"jpegThumbnail": fs.readFileSync('./src/AlamBotz.jpg'), //Gambarnye
 					},
 					"title": `Hai ${conn.getName(m.sender)}`, //Kasih namalu 
 					"description": `Rp 9.999.999.999`, 
