@@ -35,7 +35,7 @@ const ftroli = {
                             surface : 1,
                             message: 'AlamBotz', //Kasih namalu
                             orderTitle: 'Bang',
-                            thumbnail: fs.readFileSync('./src/RadBotZ.jpg'), //Gambarnye
+                            thumbnail: fs.readFileSync('./src/AlamBotz.jpg'), //Gambarnye
                             sellerJid: '0@s.whatsapp.net'
           
                           }
