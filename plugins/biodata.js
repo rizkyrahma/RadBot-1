@@ -1,21 +1,23 @@
 let fetch = require('node-fetch')
 let handler = async (m, { conn, text }) => {
   let ext= `
-*BIODATA OWNER*
-
-*Nama* : Raditya
-*Umur* : 19
-*Kelas* : 3 Smk
-*Status* : Private
-
-*SOSIAL MEDIA*
-
-*instagran* : Private
-*Facebook* : Private
-*Chanel Youtube* : none
-*Gmail* : Xnxx@gmail.com
-*Github* : https://github.com/Drz103
-
+╭═════════════════
+║╭──❉ *𝐁𝐈𝐎𝐃𝐀𝐓𝐀 𝐎𝐖𝐍𝐄𝐑* ❉───
+║│➸ *Nama* : Alam 🌱
+║│➸ *Umur* : 16
+║│➸ *Kelas* :  9 SMP
+║│➸ *Status* : "Day" is not important to me
+║╰───────────────
+╰════════════════
+╭════════════════
+║╭──❉ *𝐒𝐎𝐒𝐈𝐀𝐋 𝐌𝐄𝐃𝐈𝐀* ❉───
+║│➸ *No.Owner* : wa.me/6285814079819
+║│➸ *No.Bot* : wa.me/6285888083107
+║│➸ *Chanel Youtube* : https://youtube.com/channel/UC2_TYQjXx5yvvXvPEW849mw
+║│➸ *Gmail* : Xnxx@gmail.com
+║│➸ *Github* : males isi
+║╰────────────────
+╰═════════════════
 _Oke udah itu aja terimakasih_
 
 `.trim()
