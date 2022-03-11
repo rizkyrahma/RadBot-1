@@ -13,7 +13,7 @@ let handler = async (m, { conn }) => {
 ║╭─❉ [𝐈𝐍𝐅𝐎𝐁𝐎𝐓] ❉───
 ║│➸ NameBot: AlamBotz
 ║│➸ Main Owner: Alam 🌱
-║│➸ Operated Since: 25 December 2021
+║│➸ Operated Since: 11 Maret 2022
 ║│➸ Language Used: Nodejs (JS)
 ║│➸ Server: Heroku
 ║│➸ SC: https:/github.com/rizkyrahma/RadBot-1
