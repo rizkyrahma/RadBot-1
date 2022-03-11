@@ -2,10 +2,10 @@ let fetch = require('node-fetch')
 let handler = async (m, { conn }) => conn.sendButtonLoc(m.chat, await (await fetch(fla + 'Source code')).buffer(), `
 *────────「 SCRIPT 」 ────────*
 Hai 👋
-saya radbotz_1
+saya RadBot-1
 Bot Ini Menggunakan Sc dari github
 https://github.com/rizkyrahma
-`.trim(), '©souce code', 'Thanks', '.tqto')
+`.trim(), '©AlamBotz', 'Thanks', '.tqto')
 handler.help = ['sourcecode']
 handler.tags = ['info']
 handler.command = /^(sourcecode|sc|scbot|script|github)$/i
