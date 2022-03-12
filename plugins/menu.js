@@ -231,12 +231,10 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┃✾ _*${conn.blocklist.length}*_ 𝙏𝙚𝙧𝙗𝙡𝙤𝙘𝙠
 ┃✾ _*${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length}*_ 𝘾𝙝𝙖𝙩 𝙩𝙚𝙧𝙗𝙖𝙣𝙣𝙚𝙙
 ┃✾ _*${Object.entries(global.db.data.users).filter(user => user[1].banned).length}*_ 𝙋𝙚𝙣𝙜𝙜𝙪𝙣𝙖 𝙏𝙚𝙧𝙗𝙖𝙣𝙣𝙚𝙙
-┗━━━━━━━━⬣`.trim(),		
-                    "listMessage":  {
-                        "title": `*${ucapan()}, ${name}*`.trim(),
-                        "description": `©AlamBotz`.trim(),
+┗━━━━━━━━⬣`.trim(),	
+	                "description": `©AlamBotz`.trim(),
                         "footerText": "Hi kak >//<",
-                        "buttonText": "*menu Disini*",
+                        "buttonText": "*KLIK Disini*",
                         "listType": "SINGLE_SELECT",
                         "sections": [
                             {
